@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "You're already dead",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2025-12-31T07:30:41.339429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Be Afraid, You're Already Dead",
+      "artist": "AKRON/FAMILY",
+      "has_synced": true,
+      "path": "select/01_Don't_Be_Afraid,_You're_Already_Dead_AKRON_FAMILY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living Each Day Like You're Already Dead",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/02_Living_Each_Day_Like_You're_Already_Dead_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Living Each Day Like You're Already Dead",
+      "artist": "Atreyu",
+      "has_synced": false,
+      "path": "select/03_Living_Each_Day_Like_You're_Already_Dead_Atreyu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Living Each Day Like You're Already Dead",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/04_Living_Each_Day_Like_You're_Already_Dead_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Guilty (You're Already Dead)",
+      "artist": "Wilson",
+      "has_synced": true,
+      "path": "select/05_Guilty_(You're_Already_Dead)_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Living Each Day Like You’re Already Dead",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/06_Living_Each_Day_Like_You’re_Already_Dead_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're Already Dead",
+      "artist": "Crass",
+      "has_synced": false,
+      "path": "select/07_You're_Already_Dead_Crass.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Living Each Day Like Youre Already Dead",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/08_Living_Each_Day_Like_Youre_Already_Dead_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Living Each Day Like You’re Already Dead",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/09_Living_Each_Day_Like_You’re_Already_Dead_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You're Already Dead",
+      "artist": "VannDa-វណ្ណដា",
+      "has_synced": true,
+      "path": "select/10_You're_Already_Dead_VannDa-វណ្ណដា.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You’re Already Dead",
+      "artist": "Crass",
+      "has_synced": false,
+      "path": "select/11_You’re_Already_Dead_Crass.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Be Afraid, You're Already Dead",
+      "artist": "Akron",
+      "has_synced": true,
+      "path": "select/12_Don't_Be_Afraid,_You're_Already_Dead_Akron.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You're Already Dead",
+      "artist": "VannDa",
+      "has_synced": true,
+      "path": "select/13_You're_Already_Dead_VannDa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You're already dead",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_You're_already_dead_MY_FIRST_STORY.txt"
+    }
+  ]
+}
